@@ -1,6 +1,6 @@
 # General-Scraper
 
-Previous Scrape Projects
+Previous hobby projects for scraping various sites:
 
 - House Price Scraper:
 Program for scraping house prices (and other variables) for a given location
