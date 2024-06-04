@@ -44,8 +44,8 @@ driver.find_element_by_xpath('//*[@id="artdeco-global-alert-container"]/div/sect
     #     user_credentials = file.readlines()
     #     user_credentials = [line.rstrip() for line in user_credentials]
 
-user_name = 'oxinmckittrick@gmail.com' #user_credentials[0] # First line
-password = 'Dodgeb0ll10!' #user_credentials[1] # Second line
+user_name = 'oxi$@$@!@$@#@!@gmail.com' #user_credentials, change this accordingly
+password = '#$%^&^^^' #This as well!
 driver.find_element_by_xpath('//*[@id="username"]').send_keys(user_name)
 driver.find_element_by_xpath('//*[@id="password"]').send_keys(password)
 time.sleep(1)
